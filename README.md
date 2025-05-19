@@ -1,6 +1,6 @@
 # REST Service con Spring Boot
 
-[Video explicativo: Operaciones HTTP en Spring Boot - Fernando Diaz](./Operaciones HTTP en Spring Boot Fernando Diaz.mp4)
+[Video explicativo: Operaciones HTTP en Spring Boot - Fernando Diaz](Operaciones%20HTTP%20en%20Spring%20Boot%20Fernando%20Diaz.mp4)
 
 Este proyecto es un servicio REST implementado con Spring Boot que proporciona operaciones CRUD para gestionar usuarios.
 
